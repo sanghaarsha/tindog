@@ -1,6 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
-* [Technologies Used](#technologies used)
+* [Technologies Used](#technologies-used)
 
 ## General info
 This project is a simple site for a imaginary app called TinDog which lets
