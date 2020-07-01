@@ -1,12 +1,14 @@
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technologies Used](#technologies)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is a simple site for a imaginary app called TinDog which lets
+Dogs to find their perfect match.
 	
-## Technologies
+## Technologies Used
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* HTML
+* CSS
+* Bootstrap : V4
+* JQuery
